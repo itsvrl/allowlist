@@ -1,4 +1,4 @@
+# [split.io]
+sdk.split.io
+
 # [overwolf.com]
-overwolf.com
-analytics.overwolf.com
-analyticsnew.overwolf.com
