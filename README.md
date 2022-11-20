@@ -1,0 +1,2 @@
+# allowlist
+Allowlist for AdGuardHome
